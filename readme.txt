@@ -37,7 +37,7 @@ HealCode syncs with your MINDBODY account and can display MINDBODY information i
 
 Service Links are links you put on your website to provide the following, specific functions:
 
-The "My Account" Link provides a client the ability to login and see their account information. Once in the My Account area, they can view their contact info, update their credit card, view their schedule, view their purchase history or view their account balances. When the "My Account" Link is first clicked, it brings up the login screen of the HealCode Consumer Cart.
+The My Account link provides a client the ability to login and see their account information. Once in the My Account area, they can view their contact info, update their credit card, view their schedule, view their purchase history or view their account balances. When the My Account link is first clicked, it brings up the login screen of the HealCode Consumer Cart.
 
 The Cart link provides a client the ability to view their cart and any items that are in it.
 
@@ -59,11 +59,11 @@ You can find the code for each Service Link in each in the HealCode Manager. You
 
 = HealCode MINDOBDY Link is not working properly. =
 
-Please check the WordPress version you are using. Make sure it meets the minimum version recommended by us. Make sure all files of the `healcode_mindbody_widget` plugin are uploaded to the folder `wp-content/plugins/`
+Please check the WordPress version you are using. Make sure it meets the minimum version recommended by us. Make sure all files of the `healcode_mindbody_link` plugin are uploaded to the folder `wp-content/plugins/`
 
 = I have another plugin installed for my navigation menu, and HealCode MINDBODY Link isn’t working now . =
 
-Unfortunately, we cannot guarantee that our plugin will work with other plugins.
+Unfortunately, we cannot guarantee that our plugin will work with other plugins, especially plugins that are made specifically for the navigation menu.
 
 More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_support/)
 
@@ -72,9 +72,9 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 == Screenshots ==
 
 1. The Service Links screen in HealCode where you will copy the code for your link
-2. The settings screen where our demo Service Link code has been added to the menu
-3. The result, the "My Account" Link has been added to the end of our main navigation menu
-4. When clicked, your "My Account" Link will pull up the HealCode Consumer Cart
+2. The settings screen where our demo Service Link code has been added to the Service Link code text box
+3. The result, the "My Account" link has been added to the end of our main navigation menu
+4. When clicked, your "My Account" link will pull up the HealCode Consumer Cart
 
 
 == Requirements ==

@@ -14,13 +14,13 @@ Add a HealCode Service Link to your main navigation menu.
 
 == Description ==
 
-**Now you can add a HealCode Service Link, including a "Login" link, to your main navigation menu!** 
+**Now developers and non-developers alike can add a HealCode Service Link, including a "Login" link, to the main navigation menu!** 
 
 This plugin lets you add either a "My Account" link, "My Cart" link, or a "Buy Now" link to the end of your navigation menu. These links will pull up the HealCode Consumer Cart, which allows your clients to purchase pricing options from your MINDBODY account, login to their MINDBODY accounts from your website, and to create new MINDBODY accounts from your website.
 
 HealCode syncs with your MINDBODY account and can display MINDBODY information including classes, enrollments, appointments, staff biographies, class/enrollment descriptions, and more. See our other WordPress plugin, [HealCode MINDBODY Widget](https://wordpress.org/plugins/healcode-mindbody-widget/ "HealCode MINDBODY Widget").
 
-**NOTE** you will need a HealCode account to use this plugin. Visit [HealCode](http://www.healcode.com/ "HealCode") to sign up!
+**NOTE** You will need a HealCode account to use this plugin. Visit [HealCode](http://www.healcode.com/ "HealCode") to sign up! If you are a developer, you can learn more about our Developer Partner program [here](http://www.healcode.com/developer-signup/).
 
 
 

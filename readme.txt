@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add a HealCode Service Link to your main navigation menu.
+With our My Account, Buy Now or Cart links, your clients will be able to stay on your website to make purchases and manage their accounts. Our links will make those transactions happen behind-the-scenes in your MINDBODY account.
 
 
 

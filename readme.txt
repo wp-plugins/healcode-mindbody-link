@@ -20,6 +20,8 @@ This plugin lets you add either a "My Account" link, "My Cart" link, or a "Buy N
 
 HealCode syncs with your MINDBODY account and can display MINDBODY information including classes, enrollments, appointments, staff biographies, class/enrollment descriptions, and more. See our other WordPress plugin, [HealCode MINDBODY Widget](https://wordpress.org/plugins/healcode-mindbody-widget/ "HealCode MINDBODY Widget").
 
+*Keep in mind that if you want to add "Buy Now" links to a Pricing page, you will need to either use our other plugin, [HealCode MINDBODY Widget](https://wordpress.org/plugins/healcode-mindbody-widget/), or the traditional installation method [here](https://healcode.zendesk.com/hc/en-us/articles/203040594-Configuring-a-Service-Link-e-g-a-Buy-Now-link-or-My-Account-link-for-deployment).*
+
 **NOTE** You will need a HealCode account to use this plugin. Visit [HealCode](http://www.healcode.com/ "HealCode") to sign up! If you are a developer, you can learn more about our Developer Partner program [here](http://www.healcode.com/developer-signup/).
 
 = Plugin Features =

@@ -1,7 +1,7 @@
 === HealCode MINDBODY Link ===
 Contributors: healcode_wordpress 
 Donate link: http://healcode.com/
-Tags: HealCode, MINDBODY, add HealCode, insert Service Link, insert Link, add Service Link, add Service Links, add Login, MINDBODY Login 
+Tags: HealCode, MINDBODY, add HealCode, insert Service Link, insert Link, add Service Link, add Service Links, add Login, MINDBODY Login, MBO, mindbody api, mindbody website integration, MINDBODY Widgets, pear, pilates, schedule, Service Links, soap, yoga
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: trunk
@@ -21,6 +21,22 @@ This plugin lets you add either a "My Account" link, "My Cart" link, or a "Buy N
 HealCode syncs with your MINDBODY account and can display MINDBODY information including classes, enrollments, appointments, staff biographies, class/enrollment descriptions, and more. See our other WordPress plugin, [HealCode MINDBODY Widget](https://wordpress.org/plugins/healcode-mindbody-widget/ "HealCode MINDBODY Widget").
 
 **NOTE** You will need a HealCode account to use this plugin. Visit [HealCode](http://www.healcode.com/ "HealCode") to sign up! If you are a developer, you can learn more about our Developer Partner program [here](http://www.healcode.com/developer-signup/).
+
+= Plugin Features =
+* Ability to add one Service Link to the end of the navigation menu
+* Link can be targeted with CSS
+* Link text can be adjusted or replaced with an image
+
+= Buy Now, My Account, and Cart link Features =
+([see this page for a description of our Widgets and Consumer Cart](https://healcode.zendesk.com/hc/en-us/articles/202867484--What-are-Service-Links-i-e-Buy-Now-links-My-Account-links-and-Cart-links-))
+
+Service Links are links you put on your website to provide the following, specific functions:
+
+The **My Account link** provides a client the ability to log in and see their account information. Once "in" the My Account area, they can view their contact info, update their credit card, view their schedule, view their purchase history or view their account balances. When the My Account Link is first clicked, it brings up the login screen of the HealCode Consumer Cart.
+
+The **My Cart link** provides a client the ability to view their cart and any items that are in it.
+
+A **Buy Now link** provides a client the ability to purchase a "Pricing Option" (as that term is used in MINDBODY) directly from your website.
 
 
 

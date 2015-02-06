@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-With our Login | Register, Buy Now, or Cart links, your clients will be able to stay on your website to make purchases and manage their accounts. Our links will make those transactions happen behind-the-scenes in your MINDBODY account.
+With our Login | Register, Buy Now, or Cart links, your clients will be able to stay on your website to make purchases and manage their accounts. 
 
 
 

@@ -1,40 +1,40 @@
 === HealCode MINDBODY Link ===
 Contributors: healcode_wordpress 
 Donate link: http://healcode.com/
-Tags: HealCode, MINDBODY, add HealCode, insert Service Link, insert Link, add Service Link, add Service Links, add Login, MINDBODY Login, MBO, mindbody api, mindbody website integration, MINDBODY Widgets, pear, pilates, schedule, Service Links, soap, yoga
+Tags: HealCode, MINDBODY, add HealCode, insert HealCode Link, insert Link, add Links, add HealCode Link, add HealCode Links, add Login, MINDBODY Login, MBO, MINDBODY API, MINDBODY website integration, MINDBODY website, MINDBODY Widgets, pear, pilates, schedule, HealCode Links, soap, yoga, timetable
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-With our My Account, Buy Now or Cart links, your clients will be able to stay on your website to make purchases and manage their accounts. Our links will make those transactions happen behind-the-scenes in your MINDBODY account.
+With our Login | Register, Buy Now, or Cart links, your clients will be able to stay on your website to make purchases and manage their accounts. Our links will make those transactions happen behind-the-scenes in your MINDBODY account.
 
 
 
 == Description ==
 
-**Now developers and non-developers alike can add a HealCode Service Link, including a "Login" link, to the main navigation menu!** 
+**Now developers and non-developers alike can add a HealCode Link, including a Login | Register link, to the main navigation menu!** 
 
-This plugin lets you add either a "My Account" link, "My Cart" link, or a "Buy Now" link to the end of your navigation menu. These links will pull up the HealCode Consumer Cart, which allows your clients to purchase pricing options from your MINDBODY account, login to their MINDBODY accounts from your website, and to create new MINDBODY accounts from your website.
+This plugin lets you add either a Login | Register link, Cart link, or a Buy Now link to the right-most end of your navigation menu. These links will pull up the HealCode Consumer Cart, which allows your clients to purchase pricing options from your MINDBODY account, login to their MINDBODY accounts from your website, and to create new MINDBODY accounts from your website.
 
 HealCode syncs with your MINDBODY account and can display MINDBODY information including classes, enrollments, appointments, staff biographies, class/enrollment descriptions, and more. See our other WordPress plugin, [HealCode MINDBODY Widget](https://wordpress.org/plugins/healcode-mindbody-widget/ "HealCode MINDBODY Widget").
 
-*Keep in mind that if you want to add "Buy Now" links to a Pricing page, you will need to either use our other plugin, [HealCode MINDBODY Widget](https://wordpress.org/plugins/healcode-mindbody-widget/), or the traditional installation method [here](https://healcode.zendesk.com/hc/en-us/articles/203040594-Configuring-a-Service-Link-e-g-a-Buy-Now-link-or-My-Account-link-for-deployment).*
+*Keep in mind that if you want to add Buy Now links to a Pricing page, you will need to either use our other plugin, [HealCode MINDBODY Widget](https://wordpress.org/plugins/healcode-mindbody-widget/), or the traditional installation method [here](https://healcode.zendesk.com/hc/en-us/articles/203040594-Configuring-a-Service-Link-e-g-a-Buy-Now-link-or-My-Account-link-for-deployment).*
 
 **NOTE** You will need a HealCode account to use this plugin. Visit [HealCode](http://www.healcode.com/ "HealCode") to sign up! If you are a developer, you can learn more about our Developer Partner program [here](http://www.healcode.com/developer-signup/).
 
 = Plugin Features =
-* Ability to add one Service Link to the end of the navigation menu
+* Ability to add one HealCode Link to the end of the navigation menu
 * Link can be targeted with CSS
 * Link text can be adjusted or replaced with an image
 
-= Buy Now, My Account, and Cart link Features =
+= Buy Now, Login | Register, and Cart link Features =
 ([see this page for a description of our Widgets and Consumer Cart](https://healcode.zendesk.com/hc/en-us/articles/202867484--What-are-Service-Links-i-e-Buy-Now-links-My-Account-links-and-Cart-links-))
 
-Service Links are links you put on your website to provide the following, specific functions:
+HealCode Links are links you put on your website to provide the following, specific functions:
 
-The **My Account link** provides a client the ability to log in and see their account information. Once "in" the My Account area, they can view their contact info, update their credit card, view their schedule, view their purchase history or view their account balances. When the My Account Link is first clicked, it brings up the login screen of the HealCode Consumer Cart.
+The **Login | Register link** provides a client the ability to log in and see their account information. Once in the My Account area, they can view their contact info, update their credit card, view their schedule, view their purchase history or view their account balances. When the Login | Register Link is first clicked, it brings up the login screen of the HealCode Consumer Cart.
 
 The **My Cart link** provides a client the ability to view their cart and any items that are in it.
 
@@ -51,11 +51,11 @@ A **Buy Now link** provides a client the ability to purchase a "Pricing Option" 
 
 == Frequently Asked Questions ==
 
-= What are HealCode Service Links? What is a “My Account” Link? =
+= What are HealCode Links? What is a Login | Register Link? =
 
-Service Links are links you put on your website to provide the following, specific functions:
+HealCode Links are links you put on your website to provide the following, specific functions:
 
-The My Account link provides a client the ability to login and see their account information. Once in the My Account area, they can view their contact info, update their credit card, view their schedule, view their purchase history or view their account balances. When the My Account link is first clicked, it brings up the login screen of the HealCode Consumer Cart.
+The Login | Register link provides a client the ability to login and see their account information. Once in the My Account area, they can view their contact info, update their credit card, view their schedule, view their purchase history or view their account balances. When the Login | Register link is first clicked, it brings up the login screen of the HealCode Consumer Cart.
 
 The Cart link provides a client the ability to view their cart and any items that are in it.
 
@@ -69,11 +69,11 @@ See our [HealCode MINDBODY Link Plugin FAQ](https://healcode.zendesk.com/hc/en-u
 
 = How many Links can I add to the navigation menu ? =
 
-At this time, the HealCode MINDBODY Link plugin can only add one Service Link to the end of the main menu.
+At this time, the HealCode MINDBODY Link plugin can only add one HealCode Link to the end of the main menu.
 
-= Where do I find my HealCode Service Link code ? =
+= Where do I find my HealCode Link code ? =
 
-You can find the code for each Service Link in each in the HealCode Manager. You can login [here](https://manager.healcode.com/users/sign_in "here"). 
+You can find the code for each Link in each in the HealCode Manager. You can login [here](https://manager.healcode.com/users/sign_in "here"). 
 
 = HealCode MINDOBDY Link is not working properly. =
 
@@ -89,10 +89,10 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 
 == Screenshots ==
 
-1. The Service Links screen in HealCode where you will copy the code for your link
-2. The settings screen where our demo Service Link code has been added to the Service Link code text box
-3. The result, the "My Account" link has been added to the end of our main navigation menu
-4. When clicked, your "My Account" link will pull up the HealCode Consumer Cart
+1. The HealCode Links screen in HealCode where you will copy the code for your link
+2. The settings screen where our demo HealCode Link code has been added to the HealCode Link code text box
+3. The result, the Login | Register link has been added to the end of our main navigation menu
+4. When clicked, your Login | Register link will pull up the HealCode Consumer Cart
 
 
 == Requirements ==

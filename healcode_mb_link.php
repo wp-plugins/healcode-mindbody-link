@@ -2,7 +2,7 @@
 /*
 Plugin Name: HealCode MINDBODY Link
 Plugin URI: https://wordpress.org/plugins/healcode-mindbody-link/
-Description: Add a HealCode Service Link to your WordPress main navigation menu.
+Description: Add a HealCode Link to your WordPress main navigation menu.
 Version: 1.0.0
 Author: HealCode
 Author URI: http://www.healcode.com/
@@ -108,8 +108,8 @@ function menu_html_options() {
 
 <?php echo "<h2>" . __( 'HealCode MINDBODY Link Settings', 'menu-test' ) . "</h2>"; ?>
 
-<p>You will insert your Service Link code in the form below. Once saved, the Service Link will become a list item in your menu.</p>
-<p><em>You will navigate to the Service Links page in your HealCode account to find the necessary Javascript code. You can find directions for using this plugin <a href="https://healcode.zendesk.com/hc/en-us/articles/203681304">here</a> and directions to configuring Service Links <a href="https://healcode.zendesk.com/hc/en-us/articles/203040594-Configuring-a-Service-Link-e-g-a-Buy-Now-link-or-My-Account-link-for-deployment">here</a>. For questions, contact support <a href="http://www.healcode.com/tech_support/">here</a>.</em></p><hr />
+<p>You will insert your HealCode Link code in the form below. Once saved, the HealCode Link will become a list item in your menu.</p>
+<p><em>You will navigate to the Links page in your HealCode account to find the necessary Javascript code. You can find directions for using this plugin <a href="https://healcode.zendesk.com/hc/en-us/articles/203681304">here</a> and directions to configuring Service Links <a href="https://healcode.zendesk.com/hc/en-us/articles/203040594-Configuring-a-Service-Link-e-g-a-Buy-Now-link-or-My-Account-link-for-deployment">here</a>. For questions, contact support <a href="http://www.healcode.com/tech_support/">here</a>.</em></p><hr />
 
 <!-- <p>Your Service Link preview:</p>
 
@@ -120,7 +120,7 @@ function menu_html_options() {
 <form name="form1" method="post" action="">
 <input type="hidden" name="<?php echo $hidden_field_name; ?>" value="Y">
 
-<p><?php _e("Your Service Link Code (You may need to include Step 1 if it is not already in your header):", 'menu-test' ); ?></p>
+<p><?php _e("Your HealCode Link Code (You may need to include Step 1 if it is not already in your header):", 'menu-test' ); ?></p>
 <textarea name="<?php echo $data_field_name; ?>" rows="5" cols="100"><?php echo $opt_val; ?></textarea>
 <hr />
 

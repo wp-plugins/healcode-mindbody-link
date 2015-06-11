@@ -116,6 +116,8 @@ More questions ? [Contact HealCode Support.](http://www.healcode.com/tech_suppor
 * Updating readme lingo
 = 1.1.0 =
 * Fixed a bug in the textarea field and added the script tag to automatically be entered into the nav with the Link code
+= 1.1.1 =
+* Fixed a bug in the textarea field and added the script tag to automatically be entered into the nav with the Link code
 
 
 == Upgrade Notice ==

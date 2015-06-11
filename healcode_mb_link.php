@@ -151,6 +151,9 @@ function menu_html_options() {
 
 </form>
 
+<h2 style="margin:0.5em;">Example</h2>
+<img src="http://i.imgur.com/n7ZN4gU.png" style="width:60%;">
+
 <!-- ----------------------------------------------- -->
 
 <!-- Footer of page -->

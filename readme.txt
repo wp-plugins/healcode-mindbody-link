@@ -1,10 +1,10 @@
-=== HealCode MINDBODY Link ===
+=== HealCode MINDBODY Login ===
 Contributors: healcode_wordpress 
 Donate link: http://healcode.com/
 Tags: HealCode, MINDBODY, add HealCode, insert HealCode Link, insert Link, add Links, add HealCode Link, add HealCode Links, add Login, MINDBODY Login, MBO, MINDBODY API, MINDBODY website integration, MINDBODY website, MINDBODY Widgets, pear, pilates, schedule, HealCode Links, soap, yoga, timetable
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 1.1.2
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

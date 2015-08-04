@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: HealCode MINDBODY Link
+Plugin Name: HealCode MINDBODY Login
 Plugin URI: https://wordpress.org/plugins/healcode-mindbody-link/
 Description: Add a HealCode Link to your WordPress main navigation menu.
-Version: 1.1.0
+Version: 1.2.0
 Author: HealCode
 Author URI: http://www.healcode.com/
 Text Domain: healcode-mb-link
@@ -32,7 +32,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 function add_html_menu_item() {
     add_options_page(
-            'HealCode MINDBODY Link Settings',
+            'HealCode MINDBODY Login Settings',
             'HC Login Link',
             'manage_options',
             'html-menu-healcode',
@@ -106,7 +106,7 @@ function menu_html_options() {
 
 <div style="clear: both"></div>
 
-<?php echo "<h2>" . __( 'HealCode MINDBODY Link Settings', 'menu-test' ) . "</h2>"; ?>
+<?php echo "<h2>" . __( 'HealCode MINDBODY Login Settings', 'menu-test' ) . "</h2>"; ?>
 
 <p>You will insert your HealCode Link code in the form below. Once saved, the HealCode Link will become a list item in your menu.</p>
 <p><em>You will navigate to the Links page in your HealCode account to find the necessary Javascript code. You can find directions for using this plugin <a href="https://healcode.zendesk.com/hc/en-us/articles/203681304">here</a> and directions to configuring Service Links <a href="https://healcode.zendesk.com/hc/en-us/articles/203040594-Configuring-a-Service-Link-e-g-a-Buy-Now-link-or-My-Account-link-for-deployment">here</a>. For questions, contact support <a href="http://www.healcode.com/tech_support/">here</a>.</em></p><hr />
